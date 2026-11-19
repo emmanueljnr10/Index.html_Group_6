@@ -1,0 +1,66 @@
+CONTENT SHEET: text to copy into your page (Maame Serwaa Waakye Joint)
+
+TITLE TEXT
+Maame Serwaa Waakye Joint — Your Name
+
+HEADINGS
+h1: Maame Serwaa Waakye Joint
+h2: Our Story | Our Specials | How to Order | Our Menu | Watch Our Advert | Place Your Order
+
+PARAGRAPH 1
+Maame Serwaa Waakye Joint is at Adum in Kumasi. We open at 6:00 am every day except Sunday.
+
+PARAGRAPH 2
+Our customers love our hot waakye with shito, fresh gari and fried egg. Come and taste the best food in Adum.
+
+OUR SPECIALS (unordered list)
+Waakye
+Jollof rice
+Banku with tilapia
+Kenkey with fried fish
+
+HOW TO ORDER (ordered list)
+Choose a dish
+Fill the order form
+Pay with MoMo
+Collect or receive your food
+
+TABLE (No. | Dish | Price (GH₵) | Portion)
+1 | Waakye with fried egg and gari | 25.00 | Plate
+2 | Jollof rice with chicken | 40.00 | Plate
+3 | Banku with tilapia | 45.00 | Plate
+4 | Sobolo | 8.00 | Cup
+
+PICTURE, VIDEO, AUDIO
+Files: waakye_food.jpg, specials_bg.jpg, advert_video.mp4, jingle.mp3
+Alt text: A plate of waakye with spaghetti, gari, shito, egg and salad
+
+FORM
+Labels: Full name, Phone number, Email, Dish, Delivery, Pick-up, Special instructions
+Drop-down options: Waakye, Jollof rice, Banku with tilapia, Kenkey with fried fish
+Button text: Send Order
+
+MENU LINKS
+Our Story| Our Menu| Place Your Order
+
+FOOTER
+© 2026 Maame Serwaa Waakye Joint, Adum, Kumasi • Tel: 024 4222223
+Link text: Visit Ghana  (https://www.Maame Serwaa Waakye.gh.com)
+
+COLOURS
+green, darkred, #f4f9ef (page background), #ffffcc (light yellow), #548235 (green), #fafdf7 (card background), white
+
+CSS VALUES (Parts F, G and K)
+body: font-family Arial; font-size 16px; background-color #f4f9ef
+.container: max-width 900px; margin 20px auto; padding 20px; border 3px solid #548235; border-radius 12px; background-color white
+nav: background-color #548235; padding 10px; margin 10px 0; border-radius 6px
+nav a: color white; margin-right 16px; font-weight bold; text-decoration none
+.card: border 2px solid #548235; border-radius 10px; padding 16px; margin-bottom 20px; background-color #fafdf7
+.story-text: background-color #548235; color white; padding 16px; border-radius 10px
+.specials: background-image url("specials_bg.jpg"); background-repeat no-repeat; background-size cover; background-position center
+.specials: background-image url("specials_bg.jpg"); background-repeat no-repeat; background-size cover; background-position center
+.two-col: display flex; gap 20px; align-items center; flex-wrap wrap
+.two-col img: width 300px; max-width 100%; border 4px solid #548235; border-radius 10px
+h2: color darkred
+table, th, td: border-collapse collapse; border 1px solid #333; padding 8px (th: background-color #548235; color white)
+button: background-color #548235; color white; padding 10px 18px; border none; border-radius 6px
